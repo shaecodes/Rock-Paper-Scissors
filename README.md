@@ -1,5 +1,3 @@
-# Rock-Paper-Scissors
-
 # Rock-Paper-Scissors Game
 This Python program implements the game of rock-paper-scissors, allowing users to play against a computer opponent. The computer randomly selects one of the three options (rock, paper, or scissors), and the user inputs their choice. The program then determines the winner based on the rules of the game, and displays the result.
 
